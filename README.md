@@ -14,8 +14,8 @@ A simple to-do list application with basic CRUD operations, built using React.
 
 1. Clone the repository
 
-   git clone https://github.com/Ryzki159/To-Do-list
-   cd todo-list
-   npm install
-   npm start
+- git clone https://github.com/Ryzki159/To-Do-list
+- cd todo-list
+- npm install
+- npm start
    
